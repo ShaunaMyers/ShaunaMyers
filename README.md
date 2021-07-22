@@ -1,4 +1,4 @@
-# Hi, Hello, Thanks for stopping by.
+# Hi. Hello. Thanks for stopping by...
 
 
 My name is Shauna Myers (she/her). I am a front-end developer studying at [Turing School of Software and Design](https://turing.edu/). I anticipate completing my course in front-end engineering in **October of 2021** but am actively seeking network and employment opportunities now.
