@@ -42,7 +42,7 @@ My name is Shauna Myers (she/her). I am a front-end developer studying at [Turin
   <a href="https://github.com/ShaunaMyers/Rancid-Tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/76228573/126230092-bd92454a-441a-4b01-8284-fd4c359bea5b.gif"></a>
 </p>
 
-This was the first project just over the halfway point, in my software engineering program at Turing..  This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. View the full project [here](https://github.com/ShaunaMyers/Rancid-Tomatillos").  
+This was the first project in module 3, just over the halfway point in my software engineering program at Turing. This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. View the full project [here](https://github.com/ShaunaMyers/Rancid-Tomatillos").  
 
 ## Stats
 
