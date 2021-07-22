@@ -1,4 +1,4 @@
-### Hi, Hello, Thanks for stopping by.
+# Hi, Hello, Thanks for stopping by.
 
 
 My name is Shauna Myers (she/her). I am a front-end developer studying at [Turing School of Software and Design](https://turing.edu/). I anticipate completing my course in front-end engineering in **October of 2021** but am actively seeking network and employment opportunities now.
@@ -8,7 +8,7 @@ My name is Shauna Myers (she/her). I am a front-end developer studying at [Turin
 - 📈 Education History: Psychology, art school, business administration, and architecture/drafting/design.
 - 📋 Work History: I spent 14 years in the casino industry as a supervisor and a table games dealer. This allows me to work in a fast paced and ever changing environment. It has equipped me with top tier interpersonal skills and with an incredible ability to mediate and resolve conflicts.
 
- ### Technologies
+ ## Technologies
  <table>
     <tr>
         <td>JavaScript</td>
@@ -36,7 +36,7 @@ My name is Shauna Myers (she/her). I am a front-end developer studying at [Turin
     </tr>
 </table>
 
-### My Recent Projects 🕸
+## My Recent Projects 🕸
 
 <p>
   <a href="https://github.com/ShaunaMyers/Rancid-Tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/76228573/126230092-bd92454a-441a-4b01-8284-fd4c359bea5b.gif"></a>
