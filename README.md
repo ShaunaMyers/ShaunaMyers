@@ -1,12 +1,14 @@
-# Hi. Hello. Thanks for stopping by...
+# Hi. Hello. Thanks for stopping by...why don't you pull up a chair and stay awhile.
 
 
-My name is Shauna Myers (she/her). I am a front-end developer studying at [Turing School of Software and Design](https://turing.edu/). I anticipate completing my course in front-end engineering in **October of 2021** but am actively seeking networking and employment opportunities now.
+You have entered the land of Shauna 🌍 (she/her). I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate **early October of 2021**. Let's grab a ☕️ and chat. I would love to learn more about the software world, what you do, and what your company culture is like.
+
+When I'm not completely consumed in a coding frenzy, I spend my time singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. Fun fact about me: I've completed the last 3 months of my remote program, at Turing, from the beautiful country of Scotland. So, I have become a professional at balancing communication, and work with team members, whilst in drastically different time zones.
 
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
-- 📈 Education History: Psychology, art school, business administration, and architecture/drafting/design.
-- 📋 Work History: I spent 14 years in the casino industry as a supervisor and a table games dealer. This allows me to work in a fast paced and ever changing environment. It has equipped me with top tier interpersonal skills and with an incredible ability to mediate and resolve conflicts.
+- 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
+- 🏋🏻‍♀️ Work History: I spent 14 years in the casino industry as a supervisor and a table games dealer. This allows me to work in a fast paced and ever changing environment. It has equipped me with top tier interpersonal skills and with an incredible ability to mediate and resolve conflicts.
 
  ## Technologies
  <table>
@@ -37,6 +39,21 @@ My name is Shauna Myers (she/her). I am a front-end developer studying at [Turin
 </table>
 
 ## My Recent Projects 🕸
+
+### Turing Tip Jar
+
+<p>
+  <a href="https://github.com/ShaunaMyers/turing-tip-jar"><img width="300" align='right' src="https://user-images.githubusercontent.com/74690897/127753461-248752da-56b1-4415-985c-3c59a85c1849.gif"></a>
+</p>
+
+Built in a week and a half. On page load a user can view movie info. A user can click on a movie and continue to view info. Built with React, JavaScript, React Router, CSS, JSX, a movie API, and tested with Cypress. View the full project [here](https://github.com/ShaunaMyers/turing-tip-jar"). 
+
+
+
+<br/>
+
+
+### Rancid Tomatillos
 
 <p>
   <a href="https://github.com/ShaunaMyers/Rancid-Tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/76228573/126230092-bd92454a-441a-4b01-8284-fd4c359bea5b.gif"></a>
