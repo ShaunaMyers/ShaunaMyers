@@ -5,7 +5,7 @@ You have entered the land of Shauna 🌍 (she/her). I am a software engineer, st
 
 When I'm not completely consumed in a coding frenzy, I spend my time singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. Fun fact about me: I've completed the last 3 months of my remote program, at Turing, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
 
-
+- 💡 I am currently learning TypeScript and PostgreSQL.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
 - 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
 - 🏋🏻‍♀️ Work History: Most of my employment history has been in the casino industry, as a supervisor and a table games dealer. This allows me to work in a fast paced and ever changing environment. It has equipped me with top tier interpersonal skills and with an incredible ability to mediate and resolve conflicts.
