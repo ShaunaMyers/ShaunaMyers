@@ -46,7 +46,7 @@ When I'm not completely consumed in a coding frenzy, I spend my time singing, pl
   <a href="https://github.com/ShaunaMyers/turing-tip-jar"><img width="300" align='right' src="https://user-images.githubusercontent.com/74690897/127753461-248752da-56b1-4415-985c-3c59a85c1849.gif"></a>
 </p>
 
-Built in a week and a half. On page load a user can view movie info. A user can click on a movie and continue to view info. Built with React, JavaScript, React Router, CSS, JSX, a movie API, and tested with Cypress. View the full project [here](https://github.com/ShaunaMyers/turing-tip-jar"). 
+Built in a week and a half. On page load a user can view movie info. A user can click on a movie and continue to view info. Built with React, JavaScript, React Router, CSS, JSX, a movie API, and tested with Cypress. View the full project [here]("https://github.com/ShaunaMyers/turing-tip-jar"). 
 
 
 
@@ -59,7 +59,7 @@ Built in a week and a half. On page load a user can view movie info. A user can 
   <a href="https://github.com/ShaunaMyers/Rancid-Tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/76228573/126230092-bd92454a-441a-4b01-8284-fd4c359bea5b.gif"></a>
 </p>
 
-This was the first project in module 3, just over the halfway point in my software engineering program at Turing. This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. View the full project [here](https://github.com/ShaunaMyers/Rancid-Tomatillos").  
+This was the first project in module 3, just over the halfway point in my software engineering program at Turing. This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. View the full project [here]("https://github.com/ShaunaMyers/Rancid-Tomatillos").  
 
 ## Stats
 
