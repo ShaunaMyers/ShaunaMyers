@@ -1,9 +1,14 @@
 # Hi. Hello. Thanks for stopping by...why don't you pull up a chair and stay awhile.
 
 
-You have entered the land of Shauna 🌍 (she/her). I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate **early October of 2021**. Let's grab a ☕️ and chat. I would love to learn more about the software world, what you do, and what your company culture is like.
+You have entered the land of Shauna 🌍 (she/her). 
 
-When I'm not completely consumed in a coding frenzy, I spend my time singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. Fun fact about me: I've completed the last 3 months of my remote program, at Turing, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
+I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate **early October of 2021**. 
+Let's grab a ☕️ and chat. I would love to learn more about the software world, what you do, and what your company culture is like.
+
+When I'm not completely consumed in a coding frenzy, I spend my time singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. 
+
+Fun fact about me: I've completed the last 3 months of my remote program, at Turing, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
 
 - 💡 I am currently learning TypeScript and PostgreSQL.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
