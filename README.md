@@ -1,7 +1,7 @@
 # Hi. Hello. Thanks for stopping by...why don't you pull up a chair and stay awhile.
 
 
-I'm Shauna 🌍 (she/her). 
+I'm Shauna(she/her). 
 
 I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate **early October of 2021**. 
 Let's grab a ☕️ and chat. I would love to learn more about the software world, what you do, and what your company culture is like.
