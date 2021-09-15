@@ -3,17 +3,28 @@
 
 I'm Shauna (she/her). 
 
-I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate **early October of 2021**. 
-Let's grab a ☕️ and chat. I would love to learn more about the software world, what you do, and what your company culture is like.
+<br>
 
-When I'm not completely consumed in a coding frenzy, I spend my time singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. 
+I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate at the **end of September 2021**. 
 
-Fun fact about me: I've completed the last 3 months of my remote program, at Turing, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
+<br>
+
+Let's grab a ☕️ (virtual or in real life) and talk tech.
+
+<br>
+
+When I'm not completely consumed in a coding frenzy, I spend my time painting, singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. My passions are in sustainability, expecially in sustainable construction. In 2015 I completed an academy through [Earthship Biotecture](https://www.earthshipglobal.com/), in Taos, NM., where I learned how to build completely self-sustainable houses out of recycled materials.
+
+<br>
+
+Fun fact about me: I've completed the last 3 months of my remote program, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
+
+<br>
 
 - 💡 I am currently learning TypeScript and GraphQL.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
 - 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
-- 🏋🏻‍♀️ Work History: Most of my employment history has been in the casino industry, as a supervisor and a table games dealer. This allows me to work in a fast paced and ever changing environment. It has equipped me with top tier interpersonal skills and with an incredible ability to mediate and resolve conflicts.
+- 🏋🏻‍♀️ Work History: Most of my employment history has been in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
 
  ## Technologies
  <table>
@@ -45,17 +56,40 @@ Fun fact about me: I've completed the last 3 months of my remote program, at Tur
 
 ## My Recent Projects 🕸
 
+### BarnRaiser
+
+<p>
+  <a href="https://github.com/Barn-Raiser/barn-raiser-ui"><img width="300" align='right' src="https://user-images.githubusercontent.com/74690897/133356567-38d4f415-106a-4e00-bda2-230c5f990d04.gif"></a>
+</p>
+
+Completed in 2 1/2 weeks in a team of four. Allows users a platform to ask for assistance with a particular need or to view a list of needs and volunteer for one or many. This was my first time working directly with a backend team. This was a great experience. Not only did I get to immerse myself in their terminology (MVC, pagination, schema) but our frontend team was able to communicate about what the data needed to look like. Planning and discussing our process was vital throughout this process. We focused on an agile workflow and broke up our goals into phases and easy to manage sprints. Communication and thorough planning is absolutely key to a fluid group project!
+
+#### technologies: *Frontend* React, React Router, JavaScript, ApolloClient, Cypress, Heroku  |  *Backend* GraphQL, PostGreSQL, Ruby on Rails, Heroku
+
+View the full project [here](https://github.com/Barn-Raiser/barn-raiser-ui)
+
+
+
+<br/>
+
+
+
 ### Turing Tip Jar
 
 <p>
   <a href="https://github.com/ShaunaMyers/turing-tip-jar"><img width="300" align='right' src="https://user-images.githubusercontent.com/74690897/127753461-248752da-56b1-4415-985c-3c59a85c1849.gif"></a>
 </p>
 
-Built in one week. Provides Turing Alum and students the ability to add tips for other Turing members to search through and rate. Built with Express, PostGreSQL, React, JavaScript, React Router, CSS, JSX, Heroku, and tested with Cypress. This was a huge learning curve, as I had never dabbled in the backend before. It gave me some experience in the world of databases and servers and I cannot wait to learn more! View the full project [here](https://github.com/ShaunaMyers/turing-tip-jar). 
+Built in one week. Provides Turing Alum and students the ability to add tips for other Turing members to search through and rate. This was a huge learning curve, as I had never dabbled in the backend before. It gave me some experience in the world of databases and servers and I cannot wait to learn more! 
+
+#### technologies: React, React Router, JavaScript, ApolloClient, Cypress, Express, PostGreSQL, Heroku
+
+View the full project [here](https://github.com/ShaunaMyers/turing-tip-jar)
 
 
 
 <br/>
+
 
 
 ### Rancid Tomatillos
@@ -64,7 +98,11 @@ Built in one week. Provides Turing Alum and students the ability to add tips for
   <a href="https://github.com/ShaunaMyers/Rancid-Tomatillos"><img width="300" align='right' src="https://user-images.githubusercontent.com/76228573/126230092-bd92454a-441a-4b01-8284-fd4c359bea5b.gif"></a>
 </p>
 
-This was the first project in module 3, just over the halfway point in my software engineering program at Turing. This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. View the full project [here](https://github.com/ShaunaMyers/Rancid-Tomatillos).  
+This was the first project in module 3, just over the halfway point in my software engineering program at Turing. This was built using React, React Router, APIs, and was tested with Cypress. It was completed in just over a week and a half. I enjoyed diving into React and learning how to more effectively keep the DOM up to date with changing state in components. 
+
+#### technologies: React, React Router, JavaScript, Cypress, deployed to Vercel
+
+View the full project [here](https://github.com/ShaunaMyers/Rancid-Tomatillos).  
 
 ## Stats
 
