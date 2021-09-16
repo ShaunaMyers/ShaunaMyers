@@ -13,7 +13,7 @@ Let's grab a ☕️ (virtual or in real life) and talk tech.
 
 <br>
 
-When I'm not completely consumed in a coding frenzy, I spend my time painting, singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. My passions are in sustainability, expecially in sustainable construction. In 2015 I completed an academy through [Earthship Biotecture](https://www.earthshipglobal.com/), in Taos, NM., where I learned how to build completely self-sustainable houses out of recycled materials.
+When I'm not completely consumed in a coding frenzy, I spend my time painting, singing, playing the violin and guitar; reading literature from the 19th century, hiking, and traveling. Sustainability is a passion of mine, especially sustainable construction. In 2015 I completed an academy through [Earthship Biotecture](https://www.earthshipglobal.com/), in Taos, NM., where I learned how to build completely self-sustainable houses out of recycled materials.
 
 <br>
 
