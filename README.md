@@ -21,7 +21,7 @@ Fun fact about me: I completed the last 3 months of my remote program, from the 
 
 <br>
 
-- 💡 I am currently learning TypeScript and GraphQL.
+- 💡 I am currently learning TypeScript and Java.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
 - 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
 - 🏋🏻‍♀️ Work History: Most of my employment history has been in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
