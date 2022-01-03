@@ -5,7 +5,7 @@ I'm Shauna (she/her).
 
 <br>
 
-I am a software engineer, studying at [Turing School of Software and Design](https://turing.edu/). I graduate at the **end of September 2021**. 
+I am a software engineer. I studied at [Turing School of Software and Design](https://turing.edu/) and graduated at the **end of September 2021**. 
 
 <br>
 
@@ -17,7 +17,7 @@ When I'm not completely consumed in a coding frenzy, I spend my time painting, s
 
 <br>
 
-Fun fact about me: I've completed the last 3 months of my remote program, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
+Fun fact about me: I completed the last 3 months of my remote program, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
 
 <br>
 
