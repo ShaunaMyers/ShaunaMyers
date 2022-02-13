@@ -17,7 +17,7 @@ When I'm not completely consumed in a coding frenzy, I spend my time painting, s
 
 <br>
 
-Fun fact about me: I completed the last 3 months of my remote program, from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
+Fun fact about me: I completed the last 3 months of my remote software engineering program from the beautiful country of Scotland. So, I have become a professional at balancing communication and work with team members whilst in drastically different time zones.
 
 <br>
 
