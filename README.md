@@ -21,10 +21,10 @@ Fun fact about me: I completed the last 3 months of my remote software engineeri
 
 <br>
 
-- 💡 I am currently learning TypeScript and Java.
+- 💡 I am proficient in JavaScript, React, and Ruby on Rails, and Ruby on Sinatra. I am learning Next.js in my free time.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
 - 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
-- 🏋🏻‍♀️ Work History: Most of my employment history has been in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
+- 🏋🏻‍♀️ Work History: I have worked at [Checkr, Inc.]([url](https://checkr.com/)) for almost 3 years as a full-stack software engineer. Before that I worked in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
 
  ## Technologies
  <table>
