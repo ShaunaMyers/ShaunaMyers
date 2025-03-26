@@ -24,21 +24,20 @@ Fun fact about me: I completed the last 3 months of my remote software engineeri
 - 💡 I am proficient in JavaScript, React, and Ruby on Rails, and Ruby on Sinatra. I am learning Next.js in my free time.
 - 💬 [LinkedIn](https://www.linkedin.com/in/shauna-myers/)
 - 👩🏻‍🏫 Education History: Psychology, art school, business administration, and architecture/drafting/design.
-- 🏋🏻‍♀️ Work History: I have worked at [Checkr, Inc.]([url](https://checkr.com/)) for almost 3 years as a full-stack software engineer. Before that I worked in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
+- 🏋🏻‍♀️ Work History: I have worked at [Checkr, Inc.](https://checkr.com/) for almost 3 years as a full-stack software engineer. Before that I worked in the casino industry, as a supervisor and a table games dealer. This was a dynamic and fast paced environment. No day was ever like the last and I was continuously challenging myself to learn new skills. This industry also equipped me with excellent interpersonal and conflict resolution skills.
 
  ## Technologies
  <table>
     <tr>
         <td>JavaScript</td>
-        <td>HTML5</td>
-        <td>CSS3</td>
-        <td>Sass</td>
-        <td>React</td>
-        <td>Router</td> 
-        <td>NPM</td>
+        <td>Ruby on Rails</td>
+        <td>Ruby on Sinatra</td>
+        <td>Ruby on Sinatra</td>
+        <td>SQL</td>
+        <td>Git</td>
         <td>Cypress</td>
+        <td>Nightwatch</td>
         <td>Mocha/Chai</td>
-        <td>Heroku</td>
     </tr>
     <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
@@ -54,7 +53,7 @@ Fun fact about me: I completed the last 3 months of my remote software engineeri
     </tr>
 </table>
 
-## My Recent Projects 🕸
+## My Projects (completed while at [Turing School of Software & Design](https://turing.edu/)) 🕸
 
 ### BarnRaiser
 
